@@ -28,4 +28,6 @@
 
 #### Congratulations on finishing Homework #2!
 
+Homework completed!
+
 For more information about Lambda School's six month CS program visit: https://lambdaschool.com
